@@ -1,0 +1,34 @@
+.toplink{
+    font-weight: lighter;
+    text-decoration: none;
+    color: #666;
+    transition: color 0s;
+    transition-behavior: normal;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: color;
+}
+
+.toplink:hover{
+    color: #387ed1;
+}
+
+.button{
+    text-decoration: none;
+    font-size: 1.2em;
+    line-height: 1.2em;
+    font-weight: 500;
+    background-color: #387ed1;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 3px; 
+    font-size: 18px; 
+    border: 1px solid rgba(0,0,0,0); 
+    cursor: pointer; 
+    font-weight: 500;
+}
+
+.button:hover{
+    background-color: black;
+}
